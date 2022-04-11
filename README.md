@@ -1,1 +1,3 @@
-solidity-call-demo
+### solidity-call-demo
+- encodeWithSignature
+- encodePacked
